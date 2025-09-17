@@ -16,6 +16,33 @@
 	}
 #name{
 	font-family: Verdana;
-	
-	
 	}
+
+.facts-figures {
+  border: 8px ridge rebeccapurple;
+  border-radius: 5px;
+  max-width: 80%;
+  padding: 10px;
+  margin: auto;
+}
+
+figure {
+  margin: auto;
+  display: inline-block;
+  max-width: 300px;
+}
+
+.fig-img {
+  border-radius: 15%;
+  max-width: 200px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+figcaption {
+  margin: 5px;
+  padding: 5px;
+  max-width: 300px;
+  color: aliceblue;
+  background-color: rebeccapurple;
+}
